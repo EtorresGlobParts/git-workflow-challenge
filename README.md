@@ -4,6 +4,7 @@ Git Workflow challenge example:
 -production (real production workfload)
 	- hotfixes (branches for quickfixes)
 -staging (duplicate of our production environment)
+-development (testing)
 -master (main branch where we are going to merge all our features)
 	- features
 
@@ -22,3 +23,6 @@ recusandae alias error harum maxime adipisci amet laborum.
 
 #Example email text:
 etorres@globalization-partners.com
+
+#Example number text:
+811111111
